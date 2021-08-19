@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "About"
+    url: https://seandmullin.com/about/
+  - title: "Posts"
+    url: https://seandmullin.com/posts/
+  - title: "Sitemap"
+    url: https://seandmullin.com/sitemap/
+  - title: "Google"
+    url: https://www.google.com
+  - title: "DuckDuckGo"
+    url: https://www.duckduckgo.com
+  
