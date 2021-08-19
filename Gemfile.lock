@@ -231,6 +231,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 217)
   jekyll-feed (~> 0.12)
+  jekyll-remote-theme
   minima (~> 2.5)
   minimal-mistakes-jekyll
   tzinfo (~> 1.2)
