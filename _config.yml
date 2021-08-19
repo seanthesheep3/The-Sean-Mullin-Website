@@ -23,13 +23,13 @@ email: sdmullin13@gmail.com
 description: The website built specifically by and for Sean Mullin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: www.seandmullin.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: s3anye_west
+twitter_username: S3ANYE_WEST
 github_username:  seanthesheep3
 
 # Build settings
-remote_theme: pages-themes/time-machine@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme
+#- jekyll-remote-theme
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
