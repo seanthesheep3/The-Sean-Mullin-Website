@@ -27,7 +27,7 @@ twitter_username: s3anye_west
 github_username:  seanthesheep3
 
 # Build settings
-remote_theme: minimal
+remote_theme: minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
