@@ -38,15 +38,15 @@ gallery:
     image_path: /assets/images/8.jpg
     alt: "8"
     title: "8"
-  - url: /assets/images/headshot_full.jpg
-    image_path: /assets/images/headshot_full.jpg
-    alt: "Photo of me"
-    title: "Photo of me"
+  - url: /assets/images/9.jpg
+    image_path: /assets/images/9.jpg
+    alt: "9"
+    title: "9"
 ---
 
 Sean is a young engineer/3D Printer/Drone Pilot/Photographer from Baltimore, Maryland. He currently resides there with his German Shepherd, Rory. He enjoys all things nature and tech.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="**Just a few pictures of me**." %}
 
 
 
