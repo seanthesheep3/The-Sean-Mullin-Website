@@ -1,7 +1,7 @@
 ---
-layout: default
-title:  "Welcome to my website!"
-permalink: "https://seandmullin.com/about"
+layout: single
+title:  "Sean Mullin Biography"
+permalink: /about/
 ---
 
 **Sean Mullin Biography**

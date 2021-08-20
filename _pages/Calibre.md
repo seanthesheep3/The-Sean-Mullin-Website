@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: single
 title:  "Calibre Address"
-permalink: "https://seandmullin.com/calibre"
+permalink: /calibre/
 ---
 
 
