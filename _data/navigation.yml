@@ -1,13 +1,18 @@
 # main links
 main:
   - title: "About"
+    description: "This is where my bio and stuff lives!"
     url: https://seandmullin.com/about/
   - title: "Posts"
+    description: "This is where my posts live!"
     url: https://seandmullin.com/posts/
-  - title: "Sitemap"
-    url: https://seandmullin.com/sitemap/
   - title: "Google"
+    description: "Search Google!"
     url: https://www.google.com
   - title: "DuckDuckGo"
+    description: "Search DuckDuckGo!"
     url: https://www.duckduckgo.com
+  - title: "Sitemap"
+    description: "This is where my sitemap lives!"
+    url: https://seandmullin.com/sitemap/
   
