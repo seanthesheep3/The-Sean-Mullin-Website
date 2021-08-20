@@ -2,13 +2,13 @@
 main:
   - title: "Home"
     description: "This takes you home!"
-    url: https://seandmullin.com/home/
+    url: /home
   - title: "About"
     description: "This is where my bio and stuff lives!"
-    url: https://seandmullin.com/about/
+    url: /about/
   - title: "Calibre"
     description: "To go to my personal eBook Calibre library!"
-    url: http://69.137.42.30:631
+    url: /calibre
   - title: "Google"
     description: "Search Google!"
     url: https://www.google.com
