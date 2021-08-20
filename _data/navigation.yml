@@ -15,7 +15,7 @@ main:
   - title: "DuckDuckGo"
     description: "Search DuckDuckGo!"
     url: https://www.duckduckgo.com
-  - title: "Sitemap"
-    description: "This is where my sitemap lives!"
-    url: https://seandmullin.com/sitemap/
+#  - title: "Sitemap"
+#    description: "This is where my sitemap lives!"
+#    url: https://seandmullin.com/sitemap/
   

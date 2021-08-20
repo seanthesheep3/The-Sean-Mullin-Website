@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "Sean Mullin"
-  avatar           : "/assets/images/headshot.jpg"
+  avatar           : "/assets/images/headshot.png"
   bio              : "Sean is a young engineer/3D Printer/Drone Pilot/Photographer from Baltimore, Maryland. He currently resides there with his German Shepherd, Rory. He enjoys all things nature and tech."
   location         : "Baltimore, Maryland"
-  email            : "sdmullin13@gmail.com"
+  #email            : "sdmullin13@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,12 +119,13 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/sean.mullin13"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/seanthesheep3"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/sean_the_sheep3/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/seanthesheep3"
+
 
 # Site Footer
 footer:
@@ -141,12 +142,12 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/sean.mullin13"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/seanthesheep3"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/sean_the_sheep3/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/seanthesheep3"
 
 
 # Reading Files
@@ -155,6 +156,7 @@ include:
   - _pages
   - _posts
   - _site
+  - assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
