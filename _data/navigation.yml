@@ -6,6 +6,9 @@ main:
   - title: "Posts"
     description: "This is where my posts live!"
     url: https://seandmullin.com/posts/
+  - title: "Calibre"
+    description: "To go to my personal eBook Calibre library!"
+    url: http://73.200.224.38:631
   - title: "Google"
     description: "Search Google!"
     url: https://www.google.com
