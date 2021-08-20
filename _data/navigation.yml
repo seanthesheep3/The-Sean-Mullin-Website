@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "Home"
+    description: "This takes you home!"
+    url: https://seandmullin.com/home/
   - title: "About"
     description: "This is where my bio and stuff lives!"
     url: https://seandmullin.com/about/
-  - title: "Posts"
-    description: "This is where my posts live!"
-    url: https://seandmullin.com/posts/
   - title: "Calibre"
     description: "To go to my personal eBook Calibre library!"
     url: http://73.200.224.38:631
