@@ -3,50 +3,49 @@ layout: splash
 title:  "Sean Mullin's Personal Website"
 permalink: /
 
-
-
 gallery:
   - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
-    alt: "1"
-    title: "1"
   - url: /assets/images/2.jpg
     image_path: /assets/images/2.jpg
-    alt: "2"
-    title: "2"
   - url: /assets/images/3.jpg
     image_path: /assets/images/3.jpg
-    alt: "3"
-    title: "3"
   - url: /assets/images/4.jpg
     image_path: /assets/images/4.jpg
-    alt: "4"
-    title: "4"
   - url: /assets/images/5.jpg
     image_path: /assets/images/5.jpg
-    alt: "5"
-    title: "5"
   - url: /assets/images/6.jpg
     image_path: /assets/images/6.jpg
-    alt: "6"
-    title: "6"
   - url: /assets/images/7.jpg
     image_path: /assets/images/7.jpg
-    alt: "7"
-    title: "7"
   - url: /assets/images/8.jpg
     image_path: /assets/images/8.jpg
-    alt: "8"
-    title: "8"
   - url: /assets/images/9.jpg
     image_path: /assets/images/9.jpg
-    alt: "9"
-    title: "9"
+  - url: /assets/images/10.jpg
+    image_path: /assets/images/10.jpg
+  - url: /assets/images/11.jpg
+    image_path: /assets/images/11.jpg
+  - url: /assets/images/12.jpg
+    image_path: /assets/images/12.jpg
+  - url: /assets/images/13.jpg
+    image_path: /assets/images/13.jpg
+  - url: /assets/images/14.jpg
+    image_path: /assets/images/14.jpg
+  - url: /assets/images/15.jpg
+    image_path: /assets/images/15.jpg
+  - url: /assets/images/16.jpg
+    image_path: /assets/images/16.jpg
+  - url: /assets/images/17.jpg
+    image_path: /assets/images/17.jpg
+
 ---
 
-Sean is a young engineer/3D Printer/Drone Pilot/Photographer from Baltimore, Maryland. He currently resides there with his German Shepherd, Rory. He enjoys all things nature and tech.
+Sean is a young Systems Engineer/3D Printer/Drone Pilot/Photographer/Tech Enthusiast from Baltimore, Maryland. He his day job is writing software for radar subsystems for a United States DoD contractor. He enjoys music, hiking/camping, ultimate frisbee, basketball, drone racing, videogames, and coding.
 
-{% include gallery caption="**Just a few pictures of me**." %}
+He currently resides in Baltimore with his German Shepherd, Rory.
+
+{% include gallery %}
 
 
 

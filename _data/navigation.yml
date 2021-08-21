@@ -2,10 +2,13 @@
 main:
   - title: "Home"
     description: "This takes you home!"
-    url: /home
+    url: /
   - title: "About"
     description: "This is where my bio and stuff lives!"
     url: /about/
+  - title: "Blog Posts"
+    description: "This takes you to my blog posts!"
+    url: /posts
   - title: "Calibre"
     description: "To go to my personal eBook Calibre library!"
     url: /calibre
